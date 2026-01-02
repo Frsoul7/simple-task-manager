@@ -32,6 +32,10 @@ Desenvolver uma aplicação funcional que demonstre competências em:
 - **CORS** - Middleware para permitir requisições cross-origin
 - **dotenv** - Módulo para carregar variáveis de ambiente
 
+<div align="center">
+  <img src="docs/SS.png" alt="Screenshot da Aplicação" width="800">
+</div>
+
 ## 📂 Estrutura do Projeto
 
 ```
