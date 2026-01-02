@@ -194,29 +194,6 @@ Body: { "completed": true }
 DELETE http://localhost:5000/api/tasks/:id
 ```
 
-## ✨ Funcionalidades Implementadas
-
-- ✅ Pesquisa de tarefas em tempo real
-- ✅ Ordenação por data de criação, data de conclusão e nome
-- ✅ Data e hora de realização com calendário customizado
-- ✅ Descrição detalhada de tarefas
-- ✅ Layout de duas colunas com seleção de tarefa
-- ✅ Interface responsiva com scrollbar customizada
-
-## 🎨 Melhorias Futuras
-
-- [ ] Autenticação de utilizadores
-- [ ] Edição inline de tarefas
-- [ ] Filtros (todas/ativas/concluídas)
-- [ ] Categorias/tags para tarefas
-- [ ] Prioridades
-- [ ] Notificações de tarefas próximas do prazo
-- [ ] Modo escuro
-- [ ] Testes unitários e de integração
-- [ ] Exportar tarefas (PDF, CSV)
-
-## 📚 Conceitos Demonstrados
-
 ### Backend
 - Arquitetura MVC (Model-View-Controller)
 - API RESTful design
@@ -233,14 +210,6 @@ DELETE http://localhost:5000/api/tasks/:id
 - Event handling
 - Renderização condicional
 - Formulários controlados
-
-## 🤝 Contribuições
-
-Este é um projeto educacional. Sugestões e melhorias são bem-vindas!
-
-## 📄 Licença
-
-Este projeto é de código aberto e está disponível para fins educacionais.
 
 ---
 
